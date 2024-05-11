@@ -11,10 +11,7 @@ If a square containing a mine is clicked on, the game ends.
 - CSS
 - JavaScript
 
-### Links
 
-[Minesweeper]
-[Original Wireframe](https://www.figma.com/file/VjNbEEBTZESgVrJ7cGKZr1/Untitled?node-id=0%3A1)
 
 ### Future Enhancements
 
