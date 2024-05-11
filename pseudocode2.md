@@ -1,4 +1,4 @@
-# PW minesweeper pseudocode 2
+#  minesweeper pseudocode 2
 ### pseudo code for making multiple board sizes
 this pseudo code is to be implemented in addition to original pseudo code (with changes to accomodate multiple board sizes)
 
