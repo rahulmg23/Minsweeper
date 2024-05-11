@@ -1,7 +1,7 @@
-# PW minesweeper pseudocode
+#  minesweeper pseudocode
 
 html setup
-- game title (WIP): Welcome to Pearl's minesweeper!
+- game title (WIP): Welcome to minesweeper!
 - game board visual - maybe just the overall board, make the squares in JS?
 - directions
 - some sort of background image / color 
